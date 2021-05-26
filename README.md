@@ -1,7 +1,3 @@
-<h1 align='center'>
-  MONISHA MANDAL
-</h1>
-
 ### Hello world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a 2nd year undergraduate🙍, who is passionate about technologies💻 and obsessed with the idea of improving herself and wants to grow and excel in it🚀.
