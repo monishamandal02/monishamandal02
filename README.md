@@ -2,7 +2,7 @@
 Hello world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1> 
 <br>
-I am a 2nd year undergraduate🙍, who is passionate about technologies💻 and obsessed with the idea of improving herself and wants to grow and excel in it🚀.
+I am a 3rd year undergraduate🙍, who is passionate about technologies💻 and obsessed with the idea of improving herself and wants to grow and excel in it🚀.
 <br>
 <br>
 
